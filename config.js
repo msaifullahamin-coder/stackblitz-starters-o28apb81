@@ -14,4 +14,5 @@
 window.WF_CONFIG = {
   url: 'https://jefyaqibuzvwmgcuiagm.supabase.co',
   key: 'sb_publishable_l9UT1It-bCdZjkh8fnpncw_nZNTKqX1',
+  n8nUrl: "https://xxx.app.n8n.cloud/webhook/buat-flow"
 };
